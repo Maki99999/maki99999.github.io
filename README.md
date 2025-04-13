@@ -1,10 +1,9 @@
-# Maki99999
-
-I do various things.
+I am Maki99999.
+I do things.
 
 
 ## BiomeBeats
-[![BiomeBeats logo](https://github.com/Maki99999/music-by-biome/blob/master/images/logo.png)](https://github.com/Maki99999/music-by-biome)
+[![BiomeBeats logo](img/logo.png)](https://github.com/Maki99999/music-by-biome)
 
 A Minecraft mod called "BiomeBeats".
 
